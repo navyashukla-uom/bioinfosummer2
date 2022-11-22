@@ -5,3 +5,4 @@ import numpy as np
 import sys
 import os
 infile = sys.argv[1]
+import os
