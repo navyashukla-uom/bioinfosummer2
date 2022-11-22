@@ -7,3 +7,5 @@ import os
 infile = sys.argv[1]
 import os
 import sys
+import pandas as pd
+df = pd.read_table(infile)
